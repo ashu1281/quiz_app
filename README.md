@@ -3,7 +3,7 @@ quize  app using django framework
 
 ### To Run this project 
 
-1. clone this project : ``` git clone https://github.com/shubhamAW/quiz_app.git```
+1. clone this project : ``` git clone https://github.com/ashu1281/quiz_app.git```
 
 2. go to the project folder : ```cd quiz_app```
 
