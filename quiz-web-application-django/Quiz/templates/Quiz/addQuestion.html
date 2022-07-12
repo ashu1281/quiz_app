@@ -1,0 +1,21 @@
+{% extends 'Quiz/dependencies.html' %}
+
+{% block content %}
+
+<div class="jumbotron container row">
+    <div class="col-md-6">
+        <h1>Add Question</h1>
+        <div class="card card-body">
+           <form action="" method="POST">
+              {% csrf_token %}
+                {{form.as_p}}
+                <br>
+             <input type="submit" name="Submit">
+             </form>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+{% endblock %}
