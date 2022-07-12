@@ -19,10 +19,8 @@ quize  app using django framework
 
 8. output : 
 
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/66414385/170915168-764fed6a-47cb-4c23-93aa-306635d94371.png">
-
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/66414385/170915338-d6d78b41-d8b4-4229-b7e5-806d19b7caac.png">
-
+![image](https://user-images.githubusercontent.com/98692616/178479360-95a26be8-fcaa-4ca9-b255-57f41d18a68f.png)
+![image](https://user-images.githubusercontent.com/98692616/178479494-a95ac673-f942-497a-ad59-2854612cb011.png)
 
 ### Useful resources :
 1. https://docs.python-guide.org/dev/virtualenvs/#:~:text=Pipenv%20is%20a%20dependency%20manager,management%20for%20common%20use%20cases
