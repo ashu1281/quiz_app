@@ -25,3 +25,4 @@ quize  app using django framework
 ### Useful resources :
 1. https://docs.python-guide.org/dev/virtualenvs/#:~:text=Pipenv%20is%20a%20dependency%20manager,management%20for%20common%20use%20cases
 
+for any query connect to linkedin www.linkedin.com/in/ashishggaikwad
